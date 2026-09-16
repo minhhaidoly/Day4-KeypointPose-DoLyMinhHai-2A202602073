@@ -463,3 +463,5 @@ Rồi mở `reports/REPORT.md` và điền. Nộp file `REPORT.md`, không nộp
 - [X] Mục 4 chép từ `outputs/eval_model.json`
 - [X] Năm câu hỏi mỗi câu ít nhất 3 câu văn
 - [X] Mục 5 nêu ảnh / người / khớp / bằng chứng / v=1 hoặc v=0
+
+
